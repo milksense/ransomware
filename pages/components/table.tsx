@@ -9,7 +9,7 @@ const columns: {
 	name: string
 	uid: string
 }[] = [
-	{ name: 'Group Name', uid: 'name' },
+	{ name: 'NAME', uid: 'name' },
 	{ name: 'ONION VERSION', uid: 'onionVersion' },
 	{ name: 'STATUS', uid: 'status' },
 	{ name: 'ACTIONS', uid: 'actions' },
@@ -33,7 +33,28 @@ const TableComponent: FC = () => {
 		switch (columnKey) {
 			case 'name':
 				return (
-					<User squared src={group?.avatar} name={cellValue} css={{ p: 0 }}>
+					<User
+						// squared
+						bordered
+						zoomed
+						// size={'lg'}
+						color={
+							group?.avatar
+								? group?.status === 'active'
+									? 'success'
+									: group?.status === 'paused'
+									? 'error'
+									: group?.status === 'vacation'
+									? 'warning'
+									: group?.status === 'unknown'
+									? 'default'
+									: 'gradient'
+								: 'default'
+						}
+						src={group?.avatar}
+						name={cellValue}
+						css={{ p: 0 }}
+					>
 						{group?.description}
 					</User>
 				)
@@ -74,7 +95,7 @@ const TableComponent: FC = () => {
 		<Loading css={{ mt: 20, mb: 20 }} />
 	) : (
 		<Table
-			aria-label="Ransomware Groups List"
+			aria-label="Ransomware Groups tracker"
 			css={{
 				height: 'auto',
 				minWidth: '100%',

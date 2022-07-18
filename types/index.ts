@@ -3,7 +3,7 @@ export type GroupType = {
 	name?: string
 	description?: string
 	onionVersion: string
-	status: 'active' | 'paused' | 'vacation'
+	status: 'active' | 'paused' | 'vacation' | 'unknown'
 	avatar?: string
 	uri?: string
 }

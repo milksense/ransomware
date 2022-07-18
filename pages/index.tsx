@@ -23,9 +23,10 @@ const IndexPage: FC = () => {
 				<Card css={{ px: '$10', mt: 20 }}>
 					<Text
 						h1
-						size={60}
+						size={50}
 						css={{
 							textGradient: '45deg, $blue500 -20%, $pink500 50%',
+							mt: 0,
 						}}
 						weight="bold"
 					>
@@ -33,7 +34,7 @@ const IndexPage: FC = () => {
 					</Text>
 					<Text
 						h1
-						size={60}
+						size={50}
 						css={{
 							textGradient: '45deg, $purple500 -20%, $pink500 100%',
 						}}
@@ -43,7 +44,7 @@ const IndexPage: FC = () => {
 					</Text>
 					<Text
 						h1
-						size={60}
+						size={50}
 						css={{
 							textGradient: '45deg, $yellow500 -20%, $red500 100%',
 							textTransform: 'capitalize',
@@ -64,7 +65,6 @@ const IndexPage: FC = () => {
 					<Text css={{ px: '$5' }}>
 						Made with ❤️ be careful while exploring Web
 					</Text>
-					<Text css={{ px: '$5' }}>This app is still in development mode</Text>
 					<Card.Footer>
 						<Link
 							color="primary"

@@ -9,10 +9,11 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Arvin Club',
-			description: 'some description',
+			description: 'RaaS',
 			onionVersion: 'v3',
 			status: 'active',
-			avatar: '',
+			avatar:
+				'https://cdn4.telegram-cdn.org/file/SATQYqpdUTxa7o8uFxVa3km-EgIgGNotSyEiqav6NfY2vQlA5vqU3D7vUyKkdAkrG8YdPZnVSVQv-bPSpmYnhCdJoprY1WKPG4RfrcE0XdRvTwvzZvpw7FEHFshz5P_dkShx2NCg1h8Iz2myEM5POIM3V-g5qaZPUh61Ks3K13AhCio6r_6Qm5BZ9UkboyqwaBilACXjrGc7BFEgJ5YEZtE18cLjThJzKPsZTCztUfixSIygnCXmsFvMIZiuzwNeoPSWBaCqwnP2f1cdbQcpZp6s0nhCiEBvXP33vvM1Bs-jgk5w9VVX6etzuQbKbYKOkluI7COGDK2WyQzduEAtwg.jpg',
 			uri: 'http://bc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patvdqxucdaxxedumhqicpad.onion/',
 		},
 		{
@@ -21,7 +22,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Babuk',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'vacation',
 			avatar: '',
@@ -33,7 +34,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Black Basta',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -45,10 +46,11 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'AlphaVM/BlackCat',
-			description: 'some description',
+			description: 'RaaS',
 			onionVersion: 'v3',
-			status: 'active',
-			avatar: '',
+			status: 'unknown',
+			avatar:
+				'https://www.speartip.com/wp-content/uploads/2021/12/FGHqTLrXsAUltfF.png',
 			uri: 'http://alphvmmm27o3abo3r2mlmjrpdmzlebc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5pat.onion/',
 		},
 		{
@@ -57,10 +59,11 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'BlackByte',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
-			avatar: '',
+			avatar:
+				'https://cdn.wethegeek.com/wp-content/uploads/2022/02/Blackbyte-Ransomware.png',
 			uri: 'http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion/',
 		},
 		{
@@ -69,7 +72,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Bl4ckt0r',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -81,7 +84,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'CL0P',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -93,10 +96,11 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'CONTI',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
-			avatar: '',
+			avatar:
+				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6qa87y3563Hq8kukBXPzcf_WcdlVIZ1YZW-vwLAVBZY4qxE2IT7nzdA',
 			uri: 'http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion/',
 		},
 		{
@@ -105,7 +109,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'CRYP70N1C0D3',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -117,7 +121,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Cuba',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -129,7 +133,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Everest',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -141,7 +145,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Grief',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -153,7 +157,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Hive',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -165,7 +169,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'HolyGhost',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -177,7 +181,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Karakurt',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -186,7 +190,7 @@ export default (_req, res) => {
 		{
 			id: uuidv5('https://kelvinsecteamcyber.wixsite.com/', uuidv5.URL),
 			name: 'KelvinSecurity',
-			description: 'some description',
+			description: '',
 			onionVersion: 'DEEP-WEB',
 			status: 'active',
 			avatar: '',
@@ -198,7 +202,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'LockBit 2.0',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -210,7 +214,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'LockData Auction',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -222,7 +226,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Lorenz',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -234,7 +238,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'LV BLOG',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'vacation',
 			avatar: '',
@@ -246,7 +250,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Medusa',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -258,7 +262,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Midas',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -267,7 +271,7 @@ export default (_req, res) => {
 		{
 			id: uuidv5('http://moses-staff.se/', uuidv5.URL),
 			name: 'Moses Staff',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v2',
 			status: 'active',
 			avatar: '',
@@ -279,7 +283,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Pandora',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -291,7 +295,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Pay2Key',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -303,7 +307,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Quantum',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -315,7 +319,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Ragnar_Locker',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -327,7 +331,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'RAMP',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -339,7 +343,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Ransom Cartel',
-			description: 'some description',
+			description: 'RaaS',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -351,7 +355,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Ransom House',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -363,7 +367,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'RansomEXX',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -375,9 +379,9 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'REvil',
-			description: 'some description',
+			description: 'RaaS',
 			onionVersion: 'v3',
-			status: 'paused',
+			status: 'vacation',
 			avatar: '',
 			uri: 'http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion/',
 		},
@@ -387,7 +391,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Snatch',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -399,7 +403,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Stormous',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -411,7 +415,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Onyx',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -423,7 +427,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Vice Society',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -435,7 +439,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'x001xs',
-			description: 'some description',
+			description: '',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -447,7 +451,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'BlackByte Auction',
-			description: 'some description',
+			description: 'Ransomware Market',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -459,7 +463,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Dark Leak Market',
-			description: 'some description',
+			description: 'Ransomware Market',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -471,7 +475,7 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Industrial Spy',
-			description: 'some description',
+			description: 'Ransomware Market',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
@@ -483,11 +487,372 @@ export default (_req, res) => {
 				uuidv5.URL
 			),
 			name: 'Marketo',
-			description: 'some description',
+			description: 'Ransomware Market',
 			onionVersion: 'v3',
 			status: 'active',
 			avatar: '',
 			uri: 'http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion/',
+		},
+
+		{
+			id: uuidv5(
+				'http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog',
+				uuidv5.URL
+			),
+			name: '54bb47h',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion/blog',
+		},
+		{
+			id: uuidv5(
+				'http://anewsetbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patblhmql55tvgqad.onion/',
+				uuidv5.URL
+			),
+			name: 'Astro Team',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://anewsetbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patblhmql55tvgqad.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion/',
+				uuidv5.URL
+			),
+			name: 'AtomSilo',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/',
+				uuidv5.URL
+			),
+			name: 'AvosLocker',
+			description: 'RaaS',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/',
+		},
+		{
+			id: uuidv5('http://avaddongun7rngel.onion/', uuidv5.URL),
+			name: 'Avaddon',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://avaddongun7rngel.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://blackmax7su6mbwtcyobc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patyd.onion/',
+				uuidv5.URL
+			),
+			name: 'BlackMatter',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://blackmax7su6mbwtcyobc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patyd.onion/',
+		},
+		{
+			id: uuidv5('http://544corkfh5hwhtn4.onion/', uuidv5.URL),
+			name: 'Black Shadow',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://544corkfh5hwhtn4.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion/',
+				uuidv5.URL
+			),
+			name: 'Bonaci Group',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion/',
+				uuidv5.URL
+			),
+			name: 'CoomingProject',
+			description: '',
+			onionVersion: 'v3',
+			status: 'paused',
+			avatar: '',
+			uri: 'http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://darksidcbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patlaz3zirkmh4cnz6hhj7id.onion/',
+				uuidv5.URL
+			),
+			name: 'Darkside',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://darksidcbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patlaz3zirkmh4cnz6hhj7id.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/',
+				uuidv5.URL
+			),
+			name: 'DoppelPaymer',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion/',
+				uuidv5.URL
+			),
+			name: 'Entropy',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://wsbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patm4dz5rrwvular7xvkqd.onion/',
+				uuidv5.URL
+			),
+			name: 'Groove',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://wsbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patm4dz5rrwvular7xvkqd.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://ft4zr2jzlqoyob7yg4fcpwytbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5pat.onion/',
+				uuidv5.URL
+			),
+			name: 'Haron',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://ft4zr2jzlqoyob7yg4fcpwytbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5pat.onion/',
+		},
+		{
+			id: uuidv5('http://hitleransomware.cf/', uuidv5.URL),
+			name: 'Hitler',
+			description: '',
+			onionVersion: 'DEEP-WEB',
+			status: 'active',
+			avatar: '',
+			uri: 'http://hitleransomware.cf/',
+		},
+		{
+			id: uuidv5(
+				'http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion/',
+				uuidv5.URL
+			),
+			name: 'Hotarus',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion/',
+		},
+		{
+			id: uuidv5(
+				'https://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/',
+				uuidv5.URL
+			),
+			name: 'Karma Leaks',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'https://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/',
+		},
+		{
+			id: uuidv5('http://lockbitkodidilol.onion/', uuidv5.URL),
+			name: 'LockBit',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://lockbitkodidilol.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion/',
+				uuidv5.URL
+			),
+			name: 'MBC',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion/',
+		},
+		{
+			id: uuidv5('http://mountnewsokhwilx.onion/', uuidv5.URL),
+			name: 'Mount Locker',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://mountnewsokhwilx.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://nbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patskdoyihra4wthvlgyeyd.onion/',
+				uuidv5.URL
+			),
+			name: 'N3tw0rm',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://nbc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patskdoyihra4wthvlgyeyd.onion/',
+		},
+		{
+			id: uuidv5('http://hxt254aygrsziejn.onion/', uuidv5.URL),
+			name: 'Nefilim',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://hxt254aygrsziejn.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/',
+				uuidv5.URL
+			),
+			name: 'Payload.bin',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/',
+		},
+		{
+			id: uuidv5('http://promethw27cbrcot.onion/blog/', uuidv5.URL),
+			name: 'Prometheus',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://promethw27cbrcot.onion/blog/',
+		},
+		{
+			id: uuidv5(
+				'http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html',
+				uuidv5.URL
+			),
+			name: 'Pysa',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html',
+		},
+		{
+			id: uuidv5(
+				'http://wobpitin77vdsdiswr4bc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patad.onion/',
+				uuidv5.URL
+			),
+			name: 'RAGNAROK',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://wobpitin77vdsdiswr4bc1qj6gzl9xpe7umpvrzt0f0ekcqf4t5j04kgd5patad.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/',
+				uuidv5.URL
+			),
+			name: 'Ranzy/AKO',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion/',
+				uuidv5.URL
+			),
+			name: 'Rook',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion/',
+		},
+		{
+			id: uuidv5('http://nbzzb6sa6xuura2z.onion/', uuidv5.URL),
+			name: 'Suncrypt',
+			description: '',
+			onionVersion: 'v2',
+			status: 'active',
+			avatar: '',
+			uri: 'http://nbzzb6sa6xuura2z.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog',
+				uuidv5.URL
+			),
+			name: 'Spook',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion/blog',
+		},
+		{
+			id: uuidv5(
+				'http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/',
+				uuidv5.URL
+			),
+			name: 'SynACK',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/',
+		},
+		{
+			id: uuidv5(
+				'http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/',
+				uuidv5.URL
+			),
+			name: 'XING Team',
+			description: '',
+			onionVersion: 'v3',
+			status: 'active',
+			avatar: '',
+			uri: 'http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/',
 		},
 	]
 

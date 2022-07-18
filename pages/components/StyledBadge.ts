@@ -28,6 +28,10 @@ export const StyledBadge = styled('span', {
 				bg: '$warningLight',
 				color: '$warningLightContrast',
 			},
+			unknown: {
+				bg: '$info',
+				color: '$successDark',
+			},
 		},
 	},
 	defaultVariants: {
